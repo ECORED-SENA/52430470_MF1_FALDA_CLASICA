@@ -1,0 +1,51 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "../index.html"
+  },  
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "path": "pages/introduccion.html"
+  }, 
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "conceptos-basicos",
+    "title": "1. Conceptos básicos",
+    "path": "pages/tema-1.html"
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "caracteristicas-morfoloficas",
+    "title": "2. Características morfológicas",
+    "path": "pages/2-caracteristicas-morfologicas.html"
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "aspectos-fenologicos",
+    "title": "3. Aspectos fenológicos",
+    "path": "pages/3-aspectos-fenologicos.html"
+  },  
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "variedades",
+    "title": "4. Variedades",
+    "path": "pages/4-variedades.html"
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "condiciones-agroecologicas",
+    "title": "5. Condiciones agroecológicas",
+    "path": "pages/5-condiciones-agroecologicas.html"
+  },  
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "fisiologia-platano",
+    "title": "6. Fisiología del plátano",
+    "path": "pages/6-fisiologia-platano.html"
+  }
+
+]

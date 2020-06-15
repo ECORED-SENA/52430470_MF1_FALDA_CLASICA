@@ -1,0 +1,73 @@
+include ../mixins/functions
+
++pageHeader('Titulo del Tema', 'assets/images/header/header_media.svg')
+
+.container
+
+    .header-ecored
+        h1 
+            span.number 5. 
+            span Procedimiento de patronaje     
+
+    p El procedimiento de patronaje consiste en realizar una serie de actividades iniciando con el dibujo de las piezas que comprenden una prenda de vestir, ajustándolas a unas medidas dadas y aplicando símbolos y marcaciones que permitan el desarrollo de los siguientes procesos de corte y confección.    
+
+    p Cada parte que resulta al dividir la totalidad de la figura geométrica plana que ha formado el molde de la prenda se llama pieza y al conjunto de todas ellas se le denomina patrón.
+
+    p.text-center.my-3.py-3
+        img(src="assets/images/pages/tema-5/fondo-patronaje.svg").img-fluid
+
+    section.card-border-bottom.mt-3.pt-5
+
+        .card
+            .card-body
+                p.card-text.my-3
+                    | Las medidas que se necesitan para el trazo de la falda son las siguientes y se tomará como referencia la talla 10 del cuadro de tallas y medidas industriales (ver tabla).
+
+
+    table.table.table-bordered.table-striped
+        thead.thead-dark
+            tr
+                th Medida
+                th Cantidad total
+                th Contorno dividido en
+                th Medida a aplicar al patrón
+
+        tbody
+            tr
+                td Contorno de cintura
+                td 68 cm
+                td 1/4
+                td 17 cm
+
+            tr
+                td Contorno de cadera
+                td 96 cm
+                td 1/4
+                td 23 cm
+
+            tr
+                td Altura de cadera 
+                td 18 cm
+                td Completa
+                td 18 cm
+
+            tr
+                td Largo de falda 
+                td 60 cm
+                td Completa
+                td 60 cm
+
+
+    section.card-border-bottom.mt-3.pt-5
+
+        .card
+            .card-body
+                p.card-text.my-3
+                    | En la siguiente imagen, se observa el dibujo plano de la falda base.
+
+    p.text-center.my-3.py-3
+        img(src="assets/images/pages/tema-5/plano-falda.svg").img-fluid
+
+
+
+                    

@@ -1,5 +1,10 @@
 [
-    
+    {
+        "icon": "fa fa-download",
+        "slug": "pdf",
+        "title": "Descargar PDF",
+        "path": "media/documentos/MF1_Aspectos_basicos_del_patronaje_de_la_falda_clasica.pdf"
+    },
     {
         "icon": "icon glosario",
         "slug": "glosario",
